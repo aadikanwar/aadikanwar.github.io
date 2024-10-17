@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Investigating Primes: Variations in Ulam Spirals"
-date:   2024-10-17 18:04:00 -0700
+date:   2024-1-2 18:04:00 -0700
 categories: jekyll update
 ---
 
