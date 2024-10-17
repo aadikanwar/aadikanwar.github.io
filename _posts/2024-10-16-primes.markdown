@@ -35,7 +35,7 @@ by considering Ulam spirals initially, and then branch specifics such as Archime
 spirals, and from there we branch further into prime spirals and visualizations
 of Gaussian and Eisenstein primes (once again, all of this will be defined shortly).
 
-The visualizations made in this project are via python, and all code used will be provided
+The visualizations made in this project are via Python, and all code used will be provided
 inline with the project, and so if you wish to play around with the code and parameter
 sizes on your own machine, you can easily do so!
 
@@ -45,3 +45,20 @@ To avoid overwhelming the layman reader, we introduce each mathematical concept
 quite carefully.
 
 ### What are prime numbers?
+
+To consider this idea of prime numbers, we first need to consider what "natural
+numbers" are, as primes build off of the naturals. A natural number is
+a positive whole number (a number with no decimal or fractional part);
+namely our set of naturals is the set $$\mathbb{N} = \{0, 1, 2, 3, ...\}$$,
+where these numbers continue on to infinity (where $$\mathbb{N}$$ denotes the
+natural numbers)[^1].
+
+So we have defined the naturals, but the question remains: what are primes?
+
+<br />
+<br />
+<br />
+
+[^1]: Note that some people may exlude $$0$$ from the set of naturals ... for our purposes we leave this discussion entirely, if you're interested take a look at [this][1].
+
+[1]: https://math.stackexchange.com/questions/283/is-0-a-natural-number
