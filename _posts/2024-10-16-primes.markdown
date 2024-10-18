@@ -41,7 +41,7 @@ sizes on your own machine, you can easily do so!
 
 ## Mathematical Background
 
-To avoid overwhelming the layman reader, we introduce each mathematical concept
+To avoid overwhelming the layman, we introduce each mathematical concept
 quite carefully.
 
 ### What are prime numbers?
@@ -54,6 +54,19 @@ where these numbers continue on to infinity (where $$\mathbb{N}$$ denotes the
 natural numbers)[^1].
 
 So we have defined the naturals, but the question remains: what are primes?
+Prime numbers are essentially all naturals greater than $$1$$ such that
+it is not a product of two smaller naturals, i.e the only things that can
+multiply to equal our prime are the prime itself and the number $$1$$, these
+are the only two factors of the prime number! Examples of prime numbers include
+$$2, 3, 5, 7, 11, ...$$, and there are infinitely many prime numbers [^2], so this
+list of primes continues on to infinity.
+
+### What are Ulam spirals?
+
+We know now what the prime numbers are, and we can write them as a set as such,
+$$P = \{2, 3, 5, 7, 11, ...\}$$, where $$P$$ is just our denotation for the
+set of prime numbers. But, instead of writing these numbers as a set (boring!),
+what if we write them graphically?
 
 <br />
 <br />
@@ -61,4 +74,8 @@ So we have defined the naturals, but the question remains: what are primes?
 
 [^1]: Note that some people may exlude $$0$$ from the set of naturals ... for our purposes we leave this discussion entirely, if you're interested take a look at [this][1].
 
+[^2]: People may ask why there are infinitely many primes ... we won't prove it here, but there is a famous proof for why there are infinitely many primes - take a look at Euclid's famous proof of infinite primes [here][2].
+
 [1]: https://math.stackexchange.com/questions/283/is-0-a-natural-number
+
+[2]: https://en.wikipedia.org/wiki/Euclid%27s_theorem
