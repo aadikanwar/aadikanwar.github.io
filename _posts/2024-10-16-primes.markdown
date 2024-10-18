@@ -72,7 +72,7 @@ what if we write them graphically?
 <br />
 <br />
 
-[^1]: Note that some people may exlude $$0$$ from the set of naturals ... for our purposes we leave this discussion entirely, if you're interested take a look at [this][1].
+[^1]: Note that some people may exclude $$0$$ from the set of naturals ... for our purposes we leave this discussion entirely, if you're interested take a look at [this][1].
 
 [^2]: People may ask why there are infinitely many primes ... we won't prove it here, but there is a famous proof for why there are infinitely many primes - take a look at Euclid's famous proof of infinite primes [here][2].
 
